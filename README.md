@@ -21,3 +21,6 @@ Simple solution for Fraud detection problem.
 
 # Model
 * As you can see in my solution, this is imbalance dataset. Intuitively, we should use roc_curve metric. I tryed to train with 3 model: kNN, random forest and decision tree.
+
+
+** Star if you like:)
